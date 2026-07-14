@@ -58,7 +58,6 @@ The dashboard enables users to compare vendors, identify top-performing supplier
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
 
 ![Dashboard Preview](images/dashboard.png)
 
@@ -73,9 +72,12 @@ vendor-performance-procurement-dashboard
 ├── README.md
 ├── images/
 │   └── dashboard.png
-├── report.pdf
-└── dataset/
-    └── vendor_dataset.csv
+│   └── pivots.png
+│   └── dynamic insight.png
+│   └── dynamic insight formula.png
+├── report.docx
+├── problem_statement.docx
+
 ```
 
 ---
@@ -89,7 +91,6 @@ vendor-performance-procurement-dashboard
 - KPI Development
 - Data Visualization
 - Business Analysis
-- Excel Automation
 - Power Query
 - Pivot Table Analysis
 
