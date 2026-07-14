@@ -1,4 +1,4 @@
-#Vendor Performance & Procurement Optimization Dashboard
+Vendor Performance & Procurement Optimization Dashboard
 
 An interactive Microsoft Excel dashboard designed to evaluate vendor performance using procurement cost, delivery reliability, profit contribution, and a custom vendor performance score.
 
