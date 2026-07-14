@@ -103,7 +103,7 @@ vendor-performance-procurement-dashboard
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights using Excel, SQL, Power BI, Python, and Tableau.
 
 **LinkedIn:** *https://www.linkedin.com/in/gsarvesvaran/*  
-**GitHub:** *(Add your GitHub profile)*
+**GitHub:** *https://github.com/gsarvesvaran*
 
 ---
 
