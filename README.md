@@ -76,7 +76,6 @@ vendor-performance-procurement-dashboard
 │   └── dynamic insight.png
 │   └── dynamic insight formula.png
 ├── report.docx
-├── problem_statement.docx
 
 ```
 
